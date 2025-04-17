@@ -1,12 +1,7 @@
-1. Choisir la tech de chiffrement
-    ==> SSL/TLS pour la connexion - échanges entre client/serveur
-    ==> Clé privée / Clé Publique
+Document Utilisateur (1)
 
-2. Sockets pour la Com'
-    ==> UDP (plus léger que TCP)
-    Serveur VPN (en UDP) :
-    - Le serveur va ouvrir un socket, écouter les connexions entrantes et accepter les clients.
-    Client VPN :
-    - Le client va se connecter au serveur via ce socket, en envoyant des paquets chiffrés.
+==> Comment utiliser ? + Screen 
 
-3. Création du Serveur VPN
+
+Docuement Techniques (2)
+==> Pourquoi on a choisit ça, pourquoi ces tech etc
